@@ -1,0 +1,28 @@
+{
+  "name": "ngFileInput",
+  "homepage": "https://github.com/Iarly/ngFileInput",
+  "authors": [
+    "Iarly <me@iarly.com.br>"
+  ],
+  "description": "This directive help you to make a input file model to webapi services",
+  "main": "ng-file-input.js",
+  "moduleType": [],
+  "keywords": [
+    "angular",
+    "js",
+    "javascript",
+    "file",
+    "input",
+    "model",
+    "webapi",
+    "odata"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
