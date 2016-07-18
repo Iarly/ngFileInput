@@ -16,15 +16,15 @@ on html :
 `<input type="file" ng-file-model="myFileModel" />`
 
 Result :
+
     {
-        Data : "UEsDBBQABgAIAAAAI..AAAAA="
-        LastModified : 1468798673594
+        Data : "UEsDBBQABgAIAAAAI..AAAAA=",
+        LastModified : 1468798673594,
         LastModifiedDate : "2016-07-17T23:37:53.594Z",
         Name:"Report.xlsx",
         Size:24632,
         Type: "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
     }
     
-
 ----
 By Iarly Lana Lins | 2016
